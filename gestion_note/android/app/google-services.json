@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "912478172346",
+    "project_id": "ict218-gestion-de-notes-g4",
+    "storage_bucket": "ict218-gestion-de-notes-g4.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:912478172346:android:83f591fdce740f89ef7e83",
+        "android_client_info": {
+          "package_name": "com.example.gestion_notes"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "912478172346-a7pkje3ic3gg80vl6kcvu48j0uh2gi2r.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAtBcyTKFkrnQ6w94asDNH80YXiG8t5tu4"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "912478172346-a7pkje3ic3gg80vl6kcvu48j0uh2gi2r.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
