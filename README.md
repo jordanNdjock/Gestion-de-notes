@@ -1,2 +1,2 @@
 # Gestion-de-notes
-Appli de consultation de notes en temps réel, à parir de Firebase
+Appli de consultation de notes en temps à partir de firebase
